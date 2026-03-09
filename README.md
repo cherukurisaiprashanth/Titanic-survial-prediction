@@ -30,10 +30,10 @@ Random Forest Classifier
 ![Survival Plot](survial_plot.png)
 
 ### Gender Survival
-![Gender Plot](gender_survival_plot.png)
+![Gender Plot](gender_survial_plot.png)
 
 ### Age Distribution
-!{Age Plot](age_distribution.png)
+![Age plot](age_distribution.png)
 
 ### Confusion matrix heatmap
 ![Confusion Matrix](confusion_matrix.png)
