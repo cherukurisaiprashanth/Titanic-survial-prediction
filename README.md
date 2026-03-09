@@ -25,10 +25,18 @@ Random Forest Classifier
 - Parch
 
 ## Visualizations
-- Survival count
-- Gender survival
-- Age distribution
-- Confusion matrix heatmap
+
+### Survival Distribution
+![Survival Plot](survial_plot.png)
+
+### Gender Survival
+![Gender Plot](gender_survival_plot.png)
+
+### Age Distribution
+!{Age Plot](age_distribution.png)
+
+### Confusion matrix heatmap
+![Confusion Matrix](confusion_matrx.png)
   
  ## Author
 -  Sai Prashanth
