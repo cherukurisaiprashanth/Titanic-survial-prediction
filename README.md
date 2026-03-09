@@ -36,7 +36,7 @@ Random Forest Classifier
 !{Age Plot](age_distribution.png)
 
 ### Confusion matrix heatmap
-![Confusion Matrix](confusion_matrx.png)
+![Confusion Matrix](confusion_matrix.png)
   
  ## Author
 -  Sai Prashanth
